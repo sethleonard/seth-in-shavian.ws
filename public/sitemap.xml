@@ -3,20 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-11-24T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-11-24T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2024-11-24-another-post/</loc>
-    <lastmod>2024-11-24T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/2024-12-01-%F0%90%91%B0%F0%90%91%A5%F0%90%91%B1%F0%90%91%A4-%F0%90%91%B3%F0%90%91%90%F0%90%91%9B%F0%90%91%B1%F0%90%91%91/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2024-11-23-test-post/</loc>
-    <lastmod>2024-11-23T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/2024-11-30-starting-point/</loc>
+    <lastmod>2024-11-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/%F0%90%91%A2%F0%90%91%B9%F0%90%91%92%F0%90%91%A6%F0%90%91%99-%F0%90%91%B9-%F0%90%91%AF%F0%90%91%AA%F0%90%91%91/</loc>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
   </url>
