@@ -8,10 +8,11 @@ params:
   defaultTheme: "dark"
   ShowReadingTime: false
   ShowShareButtons: false
-  ShowPostNavLinks: true
+  ShowPostNavLinks: false
+  hideFooter: true
   
   homeInfoParams:
-    Title: "𐑕𐑧𐑔'𐑕 𐑖𐑱𐑝𐑾𐑯 𐑢𐑧𐑚𐑕𐑲𐑑 𐑐𐑮𐑪𐑡𐑧𐑒𐑑"
+    Title: "·𐑕𐑧𐑔'𐑕 𐑖𐑱𐑝𐑾𐑯 𐑢𐑧𐑚𐑕𐑲𐑑 𐑐𐑮𐑪𐑡𐑧𐑒𐑑"
     Content: |
       𐑣𐑧𐑮𐑴!
       𐑔𐑦𐑕 𐑐𐑮𐑪𐑡𐑧𐑒𐑑 𐑣𐑨𐑟 𐑞 𐑓𐑪𐑤𐑴𐑦𐑙 𐑜𐑴𐑤𐑟:
